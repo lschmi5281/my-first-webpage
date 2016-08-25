@@ -1,0 +1,44 @@
+body {
+    background-color: #ffb3e6;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px
+}
+
+h1 {
+     color: #e6005c;
+     border: 6px dotted white;
+     text-align: center;
+     font-size: 65px;
+     padding: 10px;
+     margin: 10px;
+     font-family: 'Londrina Outline', cursive;
+}
+
+p {
+     font-family: veranda;
+     font-size: 30px;
+     font-family: 'Architects Daughter', cursive;
+}
+
+img {
+    max-width: 100%;
+}
+
+a:link {
+    color: #e6004c;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #b30086;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: #cc0044;
+}
